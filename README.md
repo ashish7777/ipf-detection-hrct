@@ -80,3 +80,5 @@ data/
 └── test/
     ├── PF/
     └── Normal/
+
+open -e README.md
